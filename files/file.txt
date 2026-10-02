@@ -1,0 +1,12 @@
+Reportfile.txt -> 0 | 0.00 kb | 0.0000 mb
+freq.py -> 385 | 0.38 kb | 0.0004 mb
+calfile.py -> 368 | 0.36 kb | 0.0004 mb
+histogram.txt -> 15 | 0.01 kb | 0.0000 mb
+addfile.py -> 478 | 0.47 kb | 0.0005 mb
+add.txt -> 33 | 0.03 kb | 0.0000 mb
+letterhistogram.py -> 465 | 0.45 kb | 0.0004 mb
+filesize.py -> 528 | 0.52 kb | 0.0005 mb
+sizeos.py -> 362 | 0.35 kb | 0.0003 mb
+size.txt -> 0 | 0.00 kb | 0.0000 mb
+report.txt -> 241 | 0.24 kb | 0.0002 mb
+text.txt -> 22 | 0.02 kb | 0.0000 mb

@@ -1,0 +1,5 @@
+File size Reporthistogram.txt->28bytes | 0.03 kb | 28.0000 mb
+letterhistogram.py->465bytes | 0.45 kb | 465.0000 mb
+filesize.py->528bytes | 0.52 kb | 528.0000 mb
+size.txt->0bytes | 0.00 kb | 0.0000 mb
+report.txt->0bytes | 0.00 kb | 0.0000 mb

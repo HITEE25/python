@@ -1,0 +1,11 @@
+import turtle
+turtle.getscreen()
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.shape("turtle")
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.exitonclick()

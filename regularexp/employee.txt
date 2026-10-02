@@ -1,0 +1,3 @@
+Ramesh,50000,Ahmedabad-388325
+Suresh,45000,Vadodara-390001
+Rajesh,60000,Anand-388325
